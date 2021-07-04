@@ -58,5 +58,8 @@ h2{
 }
 #full{
     border-left: 10px solid;
-    border-image: linear-gradient(blue,cyan);
+    border-image: linear-gradient(red,cyan);
+}
+footer p{
+    text-align:center ;
 }
